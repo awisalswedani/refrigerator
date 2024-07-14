@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "608806880864",
+    "project_id": "my-clean-arch-app",
+    "storage_bucket": "my-clean-arch-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:608806880864:android:73974ae7eccd06376de505",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMPvBNIzXmrPiX_eAYtcVs8pNTRHhsv0g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
